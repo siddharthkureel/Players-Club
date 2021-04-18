@@ -31,8 +31,8 @@ and a list of players enrolled in the team.
 - JavaScript
 
 ## Setup instructions
--Download the project 
--Open Project3.sln
--Build and run 
+- Download the project 
+- Open Project3.sln
+- Build and run 
 Note: Make sure Microsoft.AspNetCore.Mvc.NewtonsoftJson is installed
 
