@@ -14,7 +14,6 @@ and a list of players enrolled in the team.
 - Public Display of Players
 - Search by Age
 - Authorised adding the Players
-- Public Display of Players
 - Authentication
 - Link with Players to team
 - Link with Team to Players
